@@ -28,7 +28,7 @@ Timeout Functionality: The chat window automatically times out after 5 minutes o
 Demonstration
 Here is a walkthrough of the script in action:
 
-The technician initiates the chat by running the script with their message. 
+The technician initiates the chat by running the script with their intial message being the custom parameter of the script in NinjaOne. 
 
 <img width="796" height="523" alt="image" src="https://github.com/user-attachments/assets/1a0670cd-548b-4130-9b50-93af8f32eeb5" />
 
@@ -44,7 +44,7 @@ The technician sees the user's reply in the NinjaOne Activity Log. The original 
 
 <img width="1456" height="867" alt="image" src="https://github.com/user-attachments/assets/0a56a627-f0fc-42a6-8a88-d75067d22d1f" />
 
-The conversation continues, with the full history maintained for the user.
+If the technician wants to reply they must rerun the script with their reply being the custom parameter in Ninja One. Once sent the conversation continues, with the full history maintained for the user.
 
 <img width="2541" height="1177" alt="image" src="https://github.com/user-attachments/assets/8687e5e2-6f1b-49ae-845e-fc5d9762b329" />
 
