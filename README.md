@@ -28,25 +28,29 @@ Timeout Functionality: The chat window automatically times out after 5 minutes o
 Demonstration
 Here is a walkthrough of the script in action:
 
-The technician initiates the chat by running the script with their message. The user sees a clean chat window pop up on their desktop in their default browser.
+The technician initiates the chat by running the script with their message. 
 
-<img width="2536" height="1192" alt="IntialMessage" src="https://github.com/user-attachments/assets/0ae6aea4-b556-4046-842f-04e43038666c" />
+<img width="796" height="523" alt="image" src="https://github.com/user-attachments/assets/1a0670cd-548b-4130-9b50-93af8f32eeb5" />
+
+The user sees a clean chat window pop up on their desktop in their default browser.
+
+<img width="2544" height="1189" alt="image" src="https://github.com/user-attachments/assets/9c73ec0a-b8a0-4533-a4a8-e640d9c6ff97" />
 
 The user can toggle the interface language to Spanish and type their reply. The "Sending..." status appears as they type.
 
-<img width="2539" height="1174" alt="IntialReply" src="https://github.com/user-attachments/assets/f1828206-4442-47f8-bb1f-76e2e681b542" />
+<img width="2538" height="1180" alt="image" src="https://github.com/user-attachments/assets/a3d66312-75e4-4700-9ab8-e36a328cdb18" />
 
 The technician sees the user's reply in the NinjaOne Activity Log. The original message is preserved, and an English translation is automatically provided.
 
-<img width="1455" height="868" alt="TechniciansView" src="https://github.com/user-attachments/assets/869bf898-ebea-4ed7-9ef4-58c31e8b17d3" />
+<img width="1456" height="867" alt="image" src="https://github.com/user-attachments/assets/0a56a627-f0fc-42a6-8a88-d75067d22d1f" />
 
 The conversation continues, with the full history maintained for the user.
 
-<img width="2532" height="1180" alt="FinalReply" src="https://github.com/user-attachments/assets/73539822-994a-4dde-ac79-8ab18302f4bb" />
+<img width="2541" height="1177" alt="image" src="https://github.com/user-attachments/assets/8687e5e2-6f1b-49ae-845e-fc5d9762b329" />
 
 Each subsequent reply from the user is also logged and translated for the technician.
 
-<img width="1453" height="865" alt="TechniciansFinalView" src="https://github.com/user-attachments/assets/d1ac57e5-32ef-4d8f-ab3b-8c460dca3e2d" />
+<img width="1456" height="865" alt="image" src="https://github.com/user-attachments/assets/cb7869c2-135a-4dee-afd2-a0b1c7ff1006" />
 
 ***
 
